@@ -1,7 +1,7 @@
 # Fast knot optimization for multivariate adaptive regression splines using hill climbing methods Python code
 by Xinglong Ju (*xinglong.ju@mavs.uta.edu*, *xinglong.ju@utsouthwestern.edu*); Victoria C. P. Chen (*vchen@uta.edu*); Jay M. Rosenberger (*jrosenbe@uta.edu*); Feng Liu (*fliu22@stevens.edu*).
 
-Xinglong Ju, Victoria CP Chen, Jay M. Rosenberger, and Feng Liu. "Fast knot optimization for multivariate adaptive regression splines using hill climbing methods." arXiv preprint arXiv:2006.15707 (2020).<br/>
+Xinglong Ju, Victoria CP Chen, Jay M. Rosenberger, and Feng Liu. "Fast knot optimization for multivariate adaptive regression splines using hill climbing methods." (2020).<br/>
 
 Xinglong Ju<br/>
 Department of Radiation Oncology
